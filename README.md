@@ -1,3 +1,3 @@
-# Hotel Management Application
+# vehicle rental Application
 
-A Swing GUI for a hotel management system, intended as a project for college
+A Swing GUI for a vehicle rental system.
